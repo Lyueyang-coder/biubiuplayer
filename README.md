@@ -1,5 +1,10 @@
 # biubiuplayer
 
+
+
+后端接口地址:http://47.108.189.41:3000
+
+项目预览地址：http://lyyblog.icu
 ## Project setup
 ## 下载模块
 ```
